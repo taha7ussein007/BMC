@@ -1,0 +1,13 @@
+﻿#include @"binaryCircuits\binaryCircuits.ph"
+
+% privately used packages
+#include @"pfc\list\list.ph"
+#include @"pfc\stream\stream.ph"
+#include @"pfc\core.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"binaryCircuits\binaryCircuits.pro"
